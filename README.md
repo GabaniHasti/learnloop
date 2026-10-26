@@ -28,6 +28,9 @@ To preview the designs, open the SVG files in a web browser or import them into 
 - **Figma** — UI/UX design
 - **SVG** — vector design exports
 
+## Figma Link
+https://www.figma.com/design/tC4YDeUAQlPFMtr16ziHuP/LearnLoop-%E2%80%93-Landing-Page?node-id=0-1&t=fCugpG7JmgdD8w7x-1
+
 ## Repository Contents
 
 ```text
